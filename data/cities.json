@@ -1,53 +1,64 @@
 {
   "cities": [
     {
+      "id": "3176",
       "cityName": "Lisbon",
       "country": "Portugal",
       "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
+      "date": "2024-05-27T16:26:57.883Z",
+      "notes": "",
       "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
+        "lat": "38.749928956515745",
+        "lng": "-9.140625000000002"
+      }
     },
     {
+      "id": "f4d0",
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "date": "2024-05-27T16:27:07.592Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
+        "lat": "40.42783722481178",
+        "lng": "-3.7133789062500004"
+      }
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "id": "93b8",
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-05-27T16:27:24.347Z",
+      "notes": "",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
+        "lat": "51.49379524349881",
+        "lng": "-0.19775390625000003"
+      }
     },
-
     {
-      "cityName": "Mumbai",
+      "id": "c006",
+      "cityName": "Devgarh",
       "country": "India",
-      "emoji": "🚩",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "City of Dreams😊",
+      "emoji": "🇮🇳",
+      "date": "2024-05-27T16:27:42.503Z",
+      "notes": "",
       "position": {
-        "lat": 19.076,
-        "lng": 72.8777
-      },
-      "id": 74896489
+        "lat": "16.525962596430084",
+        "lng": "73.56445312500001"
+      }
+    },
+    {
+      "id": "31d2",
+      "cityName": "Khatao",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-05-27T16:27:59.842Z",
+      "notes": "Test",
+      "position": {
+        "lat": "17.535687515702932",
+        "lng": "74.39941406250001"
+      }
     }
   ]
 }
